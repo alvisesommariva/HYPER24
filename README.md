@@ -1,7 +1,7 @@
 # HYPER24
 Hyperinterpolation and its variants over several regions.
 
-The compressed file HYPER23 270723.zip contains the Matlab codes used for the numerical tests in the work Hybrid hyperinterpolation over general regions by Congpei An, Jia-Shu Ran and Alvise Sommariva.
+The folder contains the Matlab codes used for the numerical tests in the work Hybrid hyperinterpolation over general regions by Congpei An, Jia-Shu Ran and Alvise Sommariva.
 
 The routines compute several variants of hyperinterpolants, i.e. • filtered hyperinterpolation, • lasso hyperinterpolation, • tikhonov regularization, • hard-thresholding hyperinterpolation, • hybrid hyperinterpolation,
 
